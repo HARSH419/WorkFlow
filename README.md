@@ -21,7 +21,7 @@
 
 <h3> :Delhi India: &nbsp;Where to find me: </h3>
 
-[![Linkedin: Harsh Singhal](https://img.shields.io/badge/-jtsoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=jtsoares)](https://www.linkedin.com/in/harsh-singhal-401510145/)
+[![Linkedin: Harsh Singhal](https://img.shields.io/badge/-Hrsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Hrsh)](https://www.linkedin.com/in/harsh-singhal-401510145/)
 [![Gmail Badge](https://img.shields.io/badge/-harshdeveloper369@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshdeveloper369@gmail.com)](mailto:harshdeveloper369@gmail.com)
 
 
