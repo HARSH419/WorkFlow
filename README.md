@@ -19,7 +19,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
- <h3> :Delhi India: &nbsp;Where to find me: </h3>
+<h3> :Delhi India: &nbsp;Where to find me: </h3>
 [![Linkedin: João Túlio](https://img.shields.io/badge/-jtsoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=jtsoares)](https://www.linkedin.com/ in/jtsoares/)
 [![Gmail Badge](https://img.shields.io/badge/-harshdeveloper369@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshdeveloper369@gmail.com)](mailto:harshdeveloper369@gmail.com)
 
