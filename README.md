@@ -21,14 +21,14 @@
 
 <h3> :Delhi India: &nbsp;Where to find me: </h3>
 
-[![Linkedin: Harsh Singhal](https://img.shields.io/badge/-Harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Harsh&target=_blank)](https://www.linkedin.com/in/harsh-singhal-401510145/)
+[![Linkedin: Harsh Singhal](https://img.shields.io/badge/-Harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Harsh)](https://www.linkedin.com/in/harsh-singhal-401510145/)
 [![Gmail Badge](https://img.shields.io/badge/-harshdeveloper369@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshdeveloper369@gmail.com)](mailto:harshdeveloper369@gmail.com)
 
 
 <div>
   <a href="https://github.com/joaotuliojt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotuliojt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotuliojt&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HARSH419&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSH419&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
